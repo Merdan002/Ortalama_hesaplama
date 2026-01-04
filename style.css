@@ -1,0 +1,24 @@
+ body {
+    font-family: Arial;
+    text-align: center;
+    margin-top: 60px;
+	color:blue;
+	background-color:yellow;
+}
+
+input {
+    padding: 6px;
+    width: 140px;
+    margin: 5px;
+}
+
+button {
+    padding: 6px 14px;
+    cursor: pointer;
+	color:red;
+}
+
+#sonuc {
+    margin-top: 20px;
+    font-size: 18px;
+}
